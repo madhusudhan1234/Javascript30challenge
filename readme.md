@@ -12,3 +12,13 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - audio ```play()``` method, how audio play works
 - transitionend event and it's types
 - audio tags and it's properties
+
+
+## What I learned in Day 2
+
+- transform from origin used css ```transform-origin: 100%;```
+- transition-timing-function property of css
+- And css transitions
+- Digital watch making by using css and js
+
+
