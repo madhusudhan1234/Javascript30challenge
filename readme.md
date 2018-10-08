@@ -22,3 +22,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Digital watch making by using css and js
 
 
+## What I learned in Day 3
+
+- I got the idea about ```this.dataset``` which is the pretty object of html data property
+- Css variable value can be changed from Javascript
+- Get idea about the control inputs and color switcher input
+- Got some Insights about nodeList and array's properties in js
