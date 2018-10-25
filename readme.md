@@ -28,3 +28,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Css variable value can be changed from Javascript
 - Get idea about the control inputs and color switcher input
 - Got some Insights about nodeList and array's properties in js
+
+## What I learned in Day 4
+
+- Learned about sort function and reduce function properly
+- Learned about reduce function which can reduce object too.
