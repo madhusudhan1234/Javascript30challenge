@@ -33,3 +33,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Learned about sort function and reduce function properly
 - Learned about reduce function which can reduce object too.
+
+## What I learned in Day 5
+
+- Learned about the flex 
+- Also start to implement the same design in my website, PR is here ```https://github.com/madhusudhan1234/madhusudhan1234.github.io/pull/5```
