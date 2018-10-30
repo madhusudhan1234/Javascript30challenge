@@ -42,4 +42,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ## What I learned in Day6
 
 - Learned about the innerHTML property
-- Learned about regular expression match and replace method
+- Learned about regular expression match and replace 
+
+## What I learned in Day7
+
+- Learned about the some, every function
+- And more clear about the splice and slice function
