@@ -39,12 +39,17 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Learned about the flex 
 - Also start to implement the same design in my website, PR is here ```https://github.com/madhusudhan1234/madhusudhan1234.github.io/pull/5```
 
-## What I learned in Day6
+## What I learned in Day 6
 
 - Learned about the innerHTML property
 - Learned about regular expression match and replace 
 
-## What I learned in Day7
+## What I learned in Day 7
 
 - Learned about the some, every function
 - And more clear about the splice and slice function
+
+## What I learned in Day 8
+
+- Learned about the Html Canvas, and drawing in 2d
+- Learned about how to draw line and several property and methods of the canvas context
