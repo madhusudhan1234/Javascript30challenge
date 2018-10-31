@@ -53,3 +53,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Learned about the Html Canvas, and drawing in 2d
 - Learned about how to draw line and several property and methods of the canvas context
+
+## What I learned in Day 9
+
+- Learned about the console tricks and tips
+- Grouping of the console
+- Timing of the data fetch is also learned
