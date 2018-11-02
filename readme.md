@@ -59,3 +59,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Learned about the console tricks and tips
 - Grouping of the console
 - Timing of the data fetch is also learned
+
+## What I learned in Day 10
+
+- This one is tricky one challenge, and checked start to finish checkbox found
+- Multiple checkbox checked by pressing shiftkey very useful  
