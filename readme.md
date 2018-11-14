@@ -63,4 +63,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ## What I learned in Day 10
 
 - This one is tricky one challenge, and checked start to finish checkbox found
-- Multiple checkbox checked by pressing shiftkey very useful  
+- Multiple checkbox checked by pressing shiftkey very useful 
+
+## What I learned in Day 11
+
+- Learned to play the video using Javscript
+- Play pause and progress bar is learned
+- play and pause method is nice 
