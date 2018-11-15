@@ -70,3 +70,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Learned to play the video using Javscript
 - Play pause and progress bar is learned
 - play and pause method is nice 
+
+## What I learned in Day 12
+
+- Learned about cornify library and it is very awesome
+- Splice from start is also learned
