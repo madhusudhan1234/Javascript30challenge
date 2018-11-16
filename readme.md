@@ -75,3 +75,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Learned about cornify library and it is very awesome
 - Splice from start is also learned
+
+## What I learned in Day 13
+
+- Learned about sliding image on scroll, Nice effect of sliding image
+- Learned actual implementation of the debounce function 
+- To get height of current position dom element window.scrollY + window.innerHeight
