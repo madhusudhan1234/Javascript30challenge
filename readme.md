@@ -81,3 +81,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Learned about sliding image on scroll, Nice effect of sliding image
 - Learned actual implementation of the debounce function 
 - To get height of current position dom element window.scrollY + window.innerHeight
+
+## What I learned in Day 14
+
+- Learned about the copy vs reference
+- Learned about how copy can be done by using spread operator, spread operator is yet to coe for object in js.
+- Object.assign can not work in nested child elements
