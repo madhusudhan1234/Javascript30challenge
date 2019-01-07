@@ -87,3 +87,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Learned about the copy vs reference
 - Learned about how copy can be done by using spread operator, spread operator is yet to coe for object in js.
 - Object.assign can not work in nested child elements
+
+## What I learned in Day 15
+
+- Learned about the localStorage
+- setValue in localStorage and get value from localStorage is learned
