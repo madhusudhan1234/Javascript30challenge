@@ -96,4 +96,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ## What I learned in Day 16
 
 - Learned about the offsetX and offsetY to get the mouse cursor position of the screen.
-- 
+
+## What I learned in Day 17
+
+- Learned about the How we can use the regular expression inside the sort function
+- Sorted list without caring a, an and the is can be done such a nice way
