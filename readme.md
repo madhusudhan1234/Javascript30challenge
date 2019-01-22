@@ -92,3 +92,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Learned about the localStorage
 - setValue in localStorage and get value from localStorage is learned
+
+## What I learned in Day 16
+
+- Learned about the offsetX and offsetY to get the mouse cursor position of the screen.
+- 
